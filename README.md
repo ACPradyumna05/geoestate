@@ -70,5 +70,5 @@ API endpoints:
 - Keep secrets out of source control; use `.env.local` for tokens.
 - If you have large model binaries, consider storing them outside the repo or using Git LFS.
 
-By: Aryan Pandey (ft. Pradyumna Singh)
+By: Aryan Pandey
 
